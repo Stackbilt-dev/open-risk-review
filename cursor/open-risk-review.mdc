@@ -1,0 +1,12 @@
+---
+description: Production risk review of this repository (security, tenant isolation, billing, secrets, AI risk). Use when the user asks for a risk review, security review, or whether the app is safe to launch.
+alwaysApply: false
+---
+
+When the user asks for a risk review, a security review, or whether the app
+is ready for real users or payments:
+
+1. Read `.open-risk-review/SKILL.md` and follow it step by step.
+2. Use `.open-risk-review/CHECKLIST.md` for the controls and
+   `.open-risk-review/TEMPLATE.md` for the report.
+3. Stay read-only until the report is written and the user asks for fixes.

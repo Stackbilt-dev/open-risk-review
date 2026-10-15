@@ -1,0 +1,17 @@
+{
+  "name": "open-risk-review",
+  "description": "Open Risk Review: a read-only production risk review your own AI runs on your repo.",
+  "owner": {
+    "name": "Stackbilt",
+    "email": "admin@stackbilt.dev"
+  },
+  "plugins": [
+    {
+      "name": "open-risk-review",
+      "source": "./",
+      "description": "Read-only production risk review of your repo against a 59-control checklist, run by your own AI.",
+      "version": "1.0.0",
+      "category": "security"
+    }
+  ]
+}

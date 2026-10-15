@@ -1,0 +1,13 @@
+{
+  "name": "open-risk-review",
+  "description": "Read-only production risk review of your repo against a 59-control checklist, run by your own AI. Writes evidence-backed findings, a coverage table, a fix plan and paste-ready fix prompts.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Stackbilt",
+    "email": "admin@stackbilt.dev"
+  },
+  "homepage": "https://github.com/Stackbilt-dev/open-risk-review",
+  "repository": "https://github.com/Stackbilt-dev/open-risk-review",
+  "license": "MIT",
+  "keywords": ["security", "review", "audit", "ai-apps", "supabase", "stripe"]
+}
